@@ -7,3 +7,11 @@ Angus und Malcolm Young gegründet wurde.
 Sie zählen zu den Pionieren des Hard Rock,
 die Band selbst bezeichnet ihre Musik jedoch
 stets als Rock ’n’ Roll.
+
+## Band Mitglieder 1977 - 1979
+
+* Bon Scott
+* Angus Young
+* Malcolm Young
+* Cliff Williams
+* Phil Rudd
