@@ -20,3 +20,6 @@ Wie Angus Young einst sang:
 
 > Rock 'n' Roll
 > aint't noise pollution
+
+
+<img src="https://de.wikipedia.org/wiki/Datei:ACDC_Tacoma.jpg"/>
