@@ -15,3 +15,8 @@ stets als Rock ’n’ Roll.
 * Malcolm Young
 * Cliff Williams
 * Phil Rudd
+
+Wie Angus Young einst sang:
+
+> Rock 'n' Roll
+> aint't noise pollution
