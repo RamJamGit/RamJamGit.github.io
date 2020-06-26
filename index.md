@@ -22,4 +22,4 @@ Wie Angus Young einst sang:
 > aint't noise pollution
 
 
-<img src="https://de.wikipedia.org/wiki/Datei:ACDC_Tacoma.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/ACDC_Tacoma.jpg"/>
